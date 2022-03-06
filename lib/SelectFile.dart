@@ -22,6 +22,7 @@ class _SelectFileState extends State<SelectFile> {
     final path = result.files.single.path!;
     setState(() {
       file = File(path);
+      print("added to the github");
     });
   }
 
