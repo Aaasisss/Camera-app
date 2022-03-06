@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581903263494",
+    "project_id": "camera-app-bc751",
+    "storage_bucket": "camera-app-bc751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581903263494:android:dfdd587437c562e9f56087",
+        "android_client_info": {
+          "package_name": "com.example.mycameraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581903263494-01tbtdon9grrtasvmv4av241veq67bvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADL9JzO3Q0R3zXc_P3arIviIJwtIFO1lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581903263494-01tbtdon9grrtasvmv4av241veq67bvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
