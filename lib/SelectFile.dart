@@ -23,6 +23,7 @@ class _SelectFileState extends State<SelectFile> {
     setState(() {
       file = File(path);
       print("added to the github");
+      print("added another line to the github");
     });
   }
 
