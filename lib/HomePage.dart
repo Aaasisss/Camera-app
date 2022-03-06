@@ -98,7 +98,7 @@ class _HomePageState extends State<HomePage> {
       body: SelectFile(),
       floatingActionButton: FloatingActionButton(
         onPressed: _optionsDialogueBox,
-        child: Column(
+        child: Row(
           children: [
             FloatingActionButton(
               onPressed: () {},
@@ -109,7 +109,7 @@ class _HomePageState extends State<HomePage> {
               child: Icon(Icons.add_a_photo),
             )
           ],
-        ),,
+        ),
         tooltip: "Open Camera",
       ),
     );
